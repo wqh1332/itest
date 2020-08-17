@@ -22,7 +22,4 @@ public class TestService {
         System.out.println(items);
     }
 
-    public static void main(String[] args) {
-        System.out.println("hello world");
-    }
 }
