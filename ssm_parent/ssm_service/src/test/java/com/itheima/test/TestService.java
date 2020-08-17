@@ -19,7 +19,6 @@ public class TestService {
         List<Items> items = bean.findItems();
         System.out.println(items);
         System.out.println(items);
-        System.out.println(items);
     }
 
 }
