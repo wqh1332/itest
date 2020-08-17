@@ -18,6 +18,8 @@ public class TestService {
         ItemsService bean = classPathXmlApplicationContext.getBean(ItemsService.class);
         List<Items> items = bean.findItems();
         System.out.println(items);
+        System.out.println(items);
+        System.out.println(items);
     }
 
     public static void main(String[] args) {
